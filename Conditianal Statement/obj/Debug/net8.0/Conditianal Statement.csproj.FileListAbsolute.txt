@@ -1,0 +1,14 @@
+E:\Desktop\dotnet\Conditianal Statement\bin\Debug\net8.0\Conditianal Statement.exe
+E:\Desktop\dotnet\Conditianal Statement\bin\Debug\net8.0\Conditianal Statement.deps.json
+E:\Desktop\dotnet\Conditianal Statement\bin\Debug\net8.0\Conditianal Statement.runtimeconfig.json
+E:\Desktop\dotnet\Conditianal Statement\bin\Debug\net8.0\Conditianal Statement.dll
+E:\Desktop\dotnet\Conditianal Statement\bin\Debug\net8.0\Conditianal Statement.pdb
+E:\Desktop\dotnet\Conditianal Statement\obj\Debug\net8.0\Conditianal Statement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\dotnet\Conditianal Statement\obj\Debug\net8.0\Conditianal Statement.AssemblyInfoInputs.cache
+E:\Desktop\dotnet\Conditianal Statement\obj\Debug\net8.0\Conditianal Statement.AssemblyInfo.cs
+E:\Desktop\dotnet\Conditianal Statement\obj\Debug\net8.0\Conditianal Statement.csproj.CoreCompileInputs.cache
+E:\Desktop\dotnet\Conditianal Statement\obj\Debug\net8.0\Conditianal Statement.dll
+E:\Desktop\dotnet\Conditianal Statement\obj\Debug\net8.0\refint\Conditianal Statement.dll
+E:\Desktop\dotnet\Conditianal Statement\obj\Debug\net8.0\Conditianal Statement.pdb
+E:\Desktop\dotnet\Conditianal Statement\obj\Debug\net8.0\Conditianal Statement.genruntimeconfig.cache
+E:\Desktop\dotnet\Conditianal Statement\obj\Debug\net8.0\ref\Conditianal Statement.dll
