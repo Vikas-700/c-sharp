@@ -12,3 +12,4 @@ E:\Desktop\dotnet\Conditianal Statement\obj\Debug\net8.0\refint\Conditianal Stat
 E:\Desktop\dotnet\Conditianal Statement\obj\Debug\net8.0\Conditianal Statement.pdb
 E:\Desktop\dotnet\Conditianal Statement\obj\Debug\net8.0\Conditianal Statement.genruntimeconfig.cache
 E:\Desktop\dotnet\Conditianal Statement\obj\Debug\net8.0\ref\Conditianal Statement.dll
+E:\Desktop\dotnet\Conditianal Statement\obj\Debug\net8.0\Conditianal Statement.sourcelink.json
